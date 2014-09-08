@@ -1,0 +1,12 @@
+BGM,castle
+CHARA,king,7,2,0,0,タイトルがつくと　みばえがするな。/だがＰＹＴＨＯＮ　ＱＵＥＳＴは/どうかとおもうぞ。
+CHARA,minister,6,3,2,0,フルスクリーンは　よいものですな。
+CHARA,soldier,6,13,2,0,しゅうりょうしたいときは/ＥＳＣをおしてください。
+TREASURE,2,6,100ゴールド
+TREASURE,3,6,はがねのつるぎ
+TREASURE,4,6,やくそう
+DOOR,3,8
+OBJECT,7,2,44
+OBJECT,8,2,44
+MOVE,7,15,3,field,5,6
+MOVE,8,15,3,field,6,6
